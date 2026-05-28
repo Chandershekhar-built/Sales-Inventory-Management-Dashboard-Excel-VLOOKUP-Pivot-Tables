@@ -410,10 +410,9 @@ See [`LICENSE`](LICENSE) for full text.
 
 <div align="center">
 
-**📧 Email:** chandershekhar@example.com  
-**🔗 LinkedIn:** [Chandershekhar](https://linkedin.com/in/chandershekhar)  
+**📧 Email:** shekharktr777@gmail.com  
+**🔗 LinkedIn:** [Chandershekhar](www.linkedin.com/in/chander-shekhar-6664541b)  
 **🌐 GitHub:** [@Chandershekhar-built](https://github.com/Chandershekhar-built)  
-**💼 Portfolio:** [Your Portfolio](https://your-portfolio.com)
 
 <br/>
 
